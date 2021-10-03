@@ -1,0 +1,27 @@
+.pesquisa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    outline: none;
+    min-width: 25vw;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+    border: 1px solid #F3D525;
+    border-radius: 7px;
+    margin-right: 10px;
+}
+
+button{
+    cursor: pointer;
+    height: 5vh;
+    border: 1px solid transparent;
+    border-radius: 7px;
+    background-color: #ecdd86;
+}
+
+h2{
+    font-family: 'Oswald', sans-serif;
+}
